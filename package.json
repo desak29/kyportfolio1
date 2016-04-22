@@ -9,7 +9,7 @@
     "body-parser": "~1.15.0",
     "connect": "^3.3.5",
     "cookie-parser": "~1.4.1",
-    "debug": "~2.2.0",
+    "debug": "^2.2.0",
     "express": "^4.11.2",
     "fs": "0.0.2",
     "http": "0.0.0",
@@ -24,5 +24,5 @@
   "main": "app.js",
   "devDependencies": {},
   "author": "Kochan Desai",
-  "license": "ISC"
+  "license": "MIT"
 }

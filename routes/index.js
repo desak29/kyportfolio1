@@ -18,20 +18,6 @@ router.get ('/', function(req, res, next) {
 	}); //
 
 //Add the place where people can leave a message for me through email
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //*************************************************************
 
 //link to my resume page when clicked on
